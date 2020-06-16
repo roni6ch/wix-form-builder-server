@@ -6,7 +6,7 @@
 ## Server Side - NestJS
 
 ## Online
-1. Navigate to: `http://ronichabra.com/projects/wix` 
+1. Navigate to: `http://ronichabra.com` 
 2. You should now play with the Form Builder Project.
 
 ## On your Local Env
